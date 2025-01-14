@@ -15,13 +15,13 @@ Este site foi desenvolvido para compartilhar minha paixão por **dados**, com fo
 ## Principais seções do site
 
 - **Dashboard de Projetos:**  
-  Apresentação de análises e soluções baseadas em dados, com gráficos e visualizações dinâmicas.
+  Em Construção
 
 - **Blog de Dados:**  
-  Artigos sobre temas como análise estatística, machine learning, ETL, modelagem de dados, e storytelling com dados.
+  Em Construção
 
-- **Tutoriais e Guias:**  
-  Recursos passo a passo para quem deseja aprender mais sobre ferramentas e práticas de análise de dados.
+- **Tutoriais e Guias:**
+  Em Construção
 
 - **Sobre mim:**  
   Minha trajetória, habilidades e experiências no universo de dados.
